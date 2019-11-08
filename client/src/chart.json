@@ -1,0 +1,14 @@
+[
+    {
+      "shape":"rectangle",
+      "name":"rectangle box",
+      "positionx":"200",
+      "positiony":"70"
+    },
+    {
+      "shape":"arrow-up",
+      "name":"flow up",
+      "positionx":"70",
+      "positiony":"70"
+    }
+  ]
